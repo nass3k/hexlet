@@ -1,0 +1,5 @@
+{
+    "require": {
+        "funct/funct": "^1.5"
+    }
+}

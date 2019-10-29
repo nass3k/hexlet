@@ -19,12 +19,20 @@ class ComposerStaticInit4836f5e4b83c31db29842e7a92cb6149
         array (
             'Funct\\' => 6,
         ),
+        'D' => 
+        array (
+            'Ds\\' => 3,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'Funct\\' => 
         array (
             0 => __DIR__ . '/..' . '/funct/funct/src',
+        ),
+        'Ds\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/php-ds/php-ds/src',
         ),
     );
 

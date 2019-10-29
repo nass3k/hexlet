@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Funct\\' => array($vendorDir . '/funct/funct/src'),
+    'Ds\\' => array($vendorDir . '/php-ds/php-ds/src'),
 );

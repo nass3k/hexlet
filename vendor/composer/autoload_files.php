@@ -9,6 +9,7 @@ return array(
     '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => $vendorDir . '/symfony/polyfill-mbstring/bootstrap.php',
     '25072dd6e2470089de65ae7bf11d3109' => $vendorDir . '/symfony/polyfill-php72/bootstrap.php',
     '667aeda72477189d0494fecd327c3641' => $vendorDir . '/symfony/var-dumper/Resources/functions/dump.php',
+    '65fec9ebcfbb3cbb4fd0d519687aea01' => $vendorDir . '/danielstjules/stringy/src/Create.php',
     '4ceedf97791d93203e20d2cdee63c4d8' => $vendorDir . '/funct/funct/src/Collection.php',
     '3fa95b6de8b4ba809a4086bd187dc285' => $vendorDir . '/funct/funct/src/General.php',
     '9a6e6879c844337a8d58143b6e0512ae' => $vendorDir . '/funct/funct/src/Invoke.php',

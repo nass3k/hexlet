@@ -2,6 +2,8 @@
     "require": {
         "funct/funct": "^1.5",
         "php-ds/php-ds": "^1.2",
-        "tightenco/collect": "^6.4"
+        "tightenco/collect": "^6.4",
+        "nesbot/carbon": "^2.25",
+        "danielstjules/stringy": "~3.1.0"
     }
 }
